@@ -9,4 +9,4 @@ My First Repository
 3.Electro
 
 - The one that picked is none. It is because he broke the rule and spell that's why all of his enemies got off
-on the chamber 
+on the chamber.
